@@ -1,6 +1,6 @@
 {
   "name": "@basonwoo/eslint-config-monorepo",
-  "version": "0.1.9",
+  "version": "0.1.111",
   "private": true,
   "packageManager": "pnpm@7.5.2",
   "repository": "git@github.com:basonwoo/eslint-config.git",
