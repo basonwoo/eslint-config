@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-basonwoo",
-  "version": "0.1.111",
+  "version": "0.2.0",
   "license": "MIT",
   "homepage": "https://github.com/basonwoo/eslint-config",
   "main": "./dist/index.cjs",

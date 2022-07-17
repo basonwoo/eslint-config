@@ -1,6 +1,6 @@
 {
   "name": "@basonwoo/eslint-config",
-  "version": "0.1.111",
+  "version": "0.2.0",
   "description": "bason's ESLint config",
   "author": "Bason Woo <basonwoo0908@gmail.com> (https://github.com/basonwoo)",
   "license": "MIT",
