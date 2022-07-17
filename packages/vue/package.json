@@ -1,0 +1,24 @@
+{
+  "name": "@basonwoo/eslint-config-vue",
+  "version": "0.1.9",
+  "description": "",
+  "author": "Bason Woo <basonwoo0908@gmail.com> (https://github.com/basonwoo)",
+  "license": "MIT",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@basonwoo/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
